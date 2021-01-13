@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703246711789",
+    "project_id": "faqapp-56580",
+    "storage_bucket": "faqapp-56580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703246711789:android:5f5b4fd47f041a253445e4",
+        "android_client_info": {
+          "package_name": "com.example.faq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703246711789-1v0l5ab7gufip7vl93k1ij69n5o3o7nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNn9_cMZpsdTVS4uWeLrLSRRg5zaKTwBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703246711789-1v0l5ab7gufip7vl93k1ij69n5o3o7nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
